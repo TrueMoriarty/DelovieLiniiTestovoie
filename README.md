@@ -1,4 +1,4 @@
-# CarServiceSystem
+# DelovieLiniiTestovoe
 
 ### Инструкция для бека:
 1. выполнить ```docker docker-compose up``` (разворачивает контейнер с БД MS SQl)
