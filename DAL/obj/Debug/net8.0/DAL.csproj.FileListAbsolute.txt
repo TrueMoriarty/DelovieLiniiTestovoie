@@ -1,0 +1,14 @@
+c:\Users\arsla\Desktop\TestovoieDelovieLinii\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+c:\Users\arsla\Desktop\TestovoieDelovieLinii\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\arsla\Desktop\TestovoieDelovieLinii\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+c:\Users\arsla\Desktop\TestovoieDelovieLinii\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+c:\Users\arsla\Desktop\TestovoieDelovieLinii\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\arsla\Desktop\TestovoieDelovieLinii\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\arsla\Desktop\TestovoieDelovieLinii\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+c:\Users\arsla\Desktop\TestovoieDelovieLinii\DAL\bin\Debug\net8.0\DAL.dll
+c:\Users\arsla\Desktop\TestovoieDelovieLinii\DAL\bin\Debug\net8.0\DAL.pdb
+c:\Users\arsla\Desktop\TestovoieDelovieLinii\DAL\obj\Debug\net8.0\DAL.dll
+c:\Users\arsla\Desktop\TestovoieDelovieLinii\DAL\obj\Debug\net8.0\refint\DAL.dll
+c:\Users\arsla\Desktop\TestovoieDelovieLinii\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\arsla\Desktop\TestovoieDelovieLinii\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\arsla\Desktop\TestovoieDelovieLinii\DAL\obj\Debug\net8.0\ref\DAL.dll
